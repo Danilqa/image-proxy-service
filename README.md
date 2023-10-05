@@ -31,6 +31,8 @@ Based on [node-file-router](https://github.com/Danilqa/node-file-router) and [sh
 5. Tint
 6. Blur
 
+Caching is not implemented. 
+
 ## Start
 
 1. Install dependencies:\
