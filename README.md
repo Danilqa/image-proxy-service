@@ -31,7 +31,7 @@ Based on [node-file-router](https://github.com/Danilqa/node-file-router) and [sh
 5. Tint
 6. Blur
 
-Caching is not implemented. 
+Caching is not implemented. It's expected that it will be on cloud-side.
 
 ## Start
 
